@@ -1,1 +1,1 @@
-var object = new TempImplementation3();
+var object = new TempImplementation1();
